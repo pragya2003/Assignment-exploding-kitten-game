@@ -1,0 +1,7 @@
+[build]
+  # Backend deployment path
+  functions = "netlify/functions"
+
+[dev]
+  # Local development port (optional for netlify dev)
+  functionsPort = 9999
