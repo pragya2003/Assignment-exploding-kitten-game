@@ -24,8 +24,8 @@ Steps to Run the Application
 1. Clone the Repository
 Clone the repository to your local system using the following command:
 
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/pragya2003/assignment-exploding-kitten-game.git
+cd https://github.com/pragya2003/assignment-exploding-kitten-game.git
 
 2. Install Dependencies
 Use the package manager to install all the required dependencies:
